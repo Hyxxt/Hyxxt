@@ -51,6 +51,11 @@
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python">
 </p>
 
+<p><b>AI 编程工具：</b>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square" alt="Codex">
+</p>
+
 ## 其他项目
 
 作品集里还有质检报告自动整理、服装辅料订单流水线、电商订单 RPA、公开网页采集与巡检等可运行原型，以及课程实训中的 IT 运维实施与验收。
