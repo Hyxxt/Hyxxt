@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://huangyouxiong.pages.dev">
-    <img src="https://huangyouxiong.pages.dev/img/og.png" alt="黄佑雄 · AI 全栈开发作品集" width="100%">
+  <a href="https://huangyouxiong-10m3k3ol.maozi.io">
+    <img src="https://huangyouxiong-10m3k3ol.maozi.io/img/og.png" alt="黄佑雄 · AI 全栈开发作品集" width="100%">
   </a>
 </p>
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://huangyouxiong.pages.dev"><img src="https://img.shields.io/badge/作品集-huangyouxiong.pages.dev-16324a?style=flat-square" alt="作品集"></a>
+  <a href="https://huangyouxiong-10m3k3ol.maozi.io"><img src="https://img.shields.io/badge/作品集-国内直连-16324a?style=flat-square" alt="作品集"></a>
   <a href="https://ai-quote-app.onrender.com"><img src="https://img.shields.io/badge/在线演示-AI%20报价工作台-2e7d5b?style=flat-square" alt="AI 报价工作台"></a>
   <a href="https://rag-kb-nr1a.onrender.com"><img src="https://img.shields.io/badge/在线演示-RAG%20知识库-2e7d5b?style=flat-square" alt="RAG 知识库"></a>
   <a href="https://ai-job-match-8d6w.onrender.com"><img src="https://img.shields.io/badge/在线演示-AI%20求职作战台-2e7d5b?style=flat-square" alt="AI 求职作战台"></a>
@@ -64,8 +64,8 @@
 
 作品集里还有质检报告自动整理、服装辅料订单流水线、电商订单 RPA、公开网页采集与巡检等可运行原型，以及课程实训中的 IT 运维实施与验收。
 
-- 作品集：<https://huangyouxiong.pages.dev>
-- 简历 PDF：[huangyouxiong.pages.dev/resume.pdf](https://huangyouxiong.pages.dev/resume.pdf)
+- 作品集：<https://huangyouxiong-10m3k3ol.maozi.io>
+- 简历 PDF：[huangyouxiong.pages.dev/resume.pdf](https://huangyouxiong-10m3k3ol.maozi.io/resume.pdf)
 
 ## 联系
 
