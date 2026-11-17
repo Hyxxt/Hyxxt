@@ -25,7 +25,7 @@
 
 把业务规则写进代码，让模型只负责听懂人话。算钱、判合格这类不能出错的环节交给确定性代码；大模型负责把口语、文档变成结构化信息。
 
-- 已上线项目包括：**医院后勤制度助手**、**AI 报价工作台**、**理赔通**、**LabelCare**、**RAG 知识库问答**、**AI 求职作战台**、**AI 订单跟进助手**、**Bag Doctor 机器人日志体检**
+- 已上线项目包括：**Bag Doctor 机器人日志体检**、**医院后勤制度助手**、**AI 报价工作台**、**理赔通**、**LabelCare**、**RAG 知识库问答**、**AI 求职作战台**、**AI 订单跟进助手**
 - 能独立完成前端、后端、数据库和部署；Docker Compose、Kubernetes / Helm、Prometheus 都实际跑过
 - 全日制大专在读，没有正式工作经验；项目、数据和边界都写在 README 里，可以当场复现
 
@@ -33,6 +33,7 @@
 
 | 项目 | 形态 | 在线演示 | 源码 | 关键点 |
 | --- | --- | --- | --- | --- |
+| **Bag Doctor 机器人日志体检** | 浏览器端工具 | [bag-doctor-desk.glacialbowl3.chatgpt.site](https://bag-doctor-desk.glacialbowl3.chatgpt.site/) | — | ROS1 bag 解析；TF 动态边断段与时间偏移；正常基线对比；10 GiB 合成包 831–957 ms；4/4 回归 |
 | **医院后勤制度助手** | FastAPI + pgvector | [fde-hospital-ops.onrender.com](https://fde-hospital-ops.onrender.com) | [Hyxxt/fde-hospital-ops](https://github.com/Hyxxt/fde-hospital-ops) | BGE-Small-ZH ONNX 向量 + BM25 + RRF；岗位权限过滤；Docker Compose / Helm；Prometheus；Recall@3 混合 12/12 |
 | **AI 报价工作台** | Next.js 全栈 | [ai-quote-app.onrender.com](https://ai-quote-app.onrender.com) | [Hyxxt/ai-quote-app](https://github.com/Hyxxt/ai-quote-app) | 口语询价 → 模型提取 JSON → 代码查价目表算钱；型号不认识直接阻断；无 Key 自动回退规则解析 |
 | **理赔通** | Next.js + Agent | [claims-agent-2e93.onrender.com](https://claims-agent-2e93.onrender.com) | [Hyxxt/claims-agent](https://github.com/Hyxxt/claims-agent) | DeepSeek function calling 最多 6 轮；BM25 条款检索；免责情形明确拒赔；3 个 MCP 工具 |
